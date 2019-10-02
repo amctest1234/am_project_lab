@@ -1,2 +1,3 @@
 This is a second git repo
 I need to check it in
+inserted line of text
